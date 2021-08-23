@@ -18,7 +18,7 @@ All core code is located within the Dynamic_policy_balance folder.
 
 ## Run an experiment
 ```shell
-python3 main.py
+python3 DPB.py
 ```
 
 ## 2. Installation
