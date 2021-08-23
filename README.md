@@ -16,6 +16,7 @@ All core code is located within the Dynamic_policy_balance folder.
 
 * The utils/config.py file contains relevant hyperparameter and env settings.
 
+## Run an experiment
 ```shell
 python3 main.py
 ```
